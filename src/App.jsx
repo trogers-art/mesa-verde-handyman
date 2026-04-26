@@ -130,13 +130,13 @@ function Hero() {
 
       <div className="hero-right">
         <div className="hero-photo hero-photo-main">
-          <span className="hero-photo-label">Add photo here</span>
+          <img src="https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=1200&q=80&fit=crop" alt="Contractor working on home repair" />
         </div>
         <div className="hero-photo">
-          <span className="hero-photo-label">Add photo here</span>
+          <img src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800&q=80&fit=crop&crop=center" alt="Tradesman using power tools" />
         </div>
         <div className="hero-photo">
-          <span className="hero-photo-label">Add photo here</span>
+          <img src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80&fit=crop" alt="Finished home renovation result" />
         </div>
       </div>
     </section>
@@ -200,7 +200,7 @@ function About() {
         <div className="about-inner">
           <div className="about-photo-block">
             <div className="about-photo-main">
-              <span className="about-photo-placeholder-label">Owner photo here</span>
+              <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80&fit=crop&crop=face" alt="Marco Vargas, owner of Mesa Verde Handyman" />
             </div>
             <div className="about-photo-accent" />
           </div>
